@@ -1,2 +1,1 @@
-
-    P = V*Icc
+_Delta_I_2
